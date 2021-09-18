@@ -1,6 +1,7 @@
 <div align=center>
 
-# Chapter 1: Startup
+## Chapter 1
+# Startup
 
 </div>
 
