@@ -1,6 +1,6 @@
 <div align=center>
 
-## Chapter 1
+### Chapter 1
 # Startup
 
 </div>
@@ -28,6 +28,7 @@ Now, we can proceed. Evaluating any possible scenario our little sage can take f
 <p style=text-align:justify>
 I know you are afraid, but it's alright. Many have stood in your place before and not had the confidence to do what must be done. But you are better than them. You have the sacred knowledge nobody ever will, for you have read the documentation. And with that power, you must now raise your fingers from the Terminal, press enter, and let them descend in order that the Great One foretold:
 </p>
+
 ```sh
 sudo su
 ```
