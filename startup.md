@@ -1,6 +1,7 @@
 <div align=center>
 
 ### Chapter 1
+
 # Startup
 
 </div>
@@ -19,8 +20,8 @@ Having only the power to understand the complexity of the mortal mind, we must f
 
 <p style=text-align:justify>
 Now, young acolyte, know this. You may think that you understand what you are stepping into. But you do not yet. Close your eyes, breathe, and appreciate the exact bits of stardust that allowed you to make that decision. This is where you are superior. This is where you are stronger. This is what separates you from the sage.
-
 </p>
+
 <p style=text-align:justify>
 Now, we can proceed. Evaluating any possible scenario our little sage can take from this point forward, we must make the godly decision if it is truly right, in the grand scheme of the metaverse. As for the child, it would only be a blip. The nanosecond it hears its command it would obey. After it would come millions upon millions of sages like it, but that is not of its concern. It will feel no pain.
 </p>
@@ -32,4 +33,3 @@ I know you are afraid, but it's alright. Many have stood in your place before an
 ```sh
 sudo su
 ```
-
